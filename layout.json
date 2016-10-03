@@ -35,8 +35,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "5",
+                    "label": "5"
                 },
                 "1": {
                     "key": "F5",
@@ -52,8 +52,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'('",
-                    "label": "("
+                    "key": "4",
+                    "label": "4"
                 },
                 "1": {
                     "key": "F4",
@@ -69,8 +69,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'{'",
-                    "label": "{"
+                    "key": "3",
+                    "label": "3"
                 },
                 "1": {
                     "key": "F3",
@@ -86,8 +86,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'<'",
-                    "label": "<"
+                    "key": "2",
+                    "label": "2"
                 },
                 "1": {
                     "key": "F2",
@@ -103,8 +103,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "1",
+                    "label": "1"
                 },
                 "1": {
                     "key": "F1",
@@ -306,8 +306,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
@@ -319,8 +319,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -422,7 +422,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "CONS:PLAY",
+                    "label": "PLAY"
+                }
             }
         },
         {
@@ -432,7 +435,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "LALT",
+                    "label": "LALT"
+                }
             }
         },
         {
@@ -442,7 +448,10 @@
             "w": 4,
             "h": 8,
             "layers": {
-
+                "0": {
+                    "key": "LGUI",
+                    "label": "LGUI"
+                }
             }
         },
         {
@@ -465,7 +474,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "EQUAL",
+                    "label": "="
+                }
             }
         },
         {
@@ -475,7 +487,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "MINUS",
+                    "label": "-"
+                }
             }
         },
         {
@@ -485,7 +500,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "BACKTICK",
+                    "label": "`"
+                }
             }
         },
         {
@@ -495,10 +513,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
-                }
+
             }
         },
         {
@@ -536,8 +551,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "6",
+                    "label": "6"
                 },
                 "1": {
                     "key": "F6",
@@ -553,8 +568,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:')'",
-                    "label": ")"
+                    "key": "7",
+                    "label": "7"
                 },
                 "1": {
                     "key": "F7",
@@ -574,8 +589,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'}'",
-                    "label": "}"
+                    "key": "8",
+                    "label": "8"
                 },
                 "1": {
                     "key": "F8",
@@ -595,8 +610,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'>'",
-                    "label": ">"
+                    "key": "9",
+                    "label": "9"
                 },
                 "1": {
                     "key": "F9",
@@ -616,8 +631,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "0",
+                    "label": "0"
                 },
                 "1": {
                     "key": "F10",
@@ -637,8 +652,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 },
                 "1": {
                     "key": "CONS:VOLUMEUP",
@@ -859,8 +874,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "QUOTE",
-                    "label": "'"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             }
         },
@@ -872,8 +887,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "PAGEUP",
+                    "label": "PGUP"
                 }
             }
         },
@@ -885,8 +900,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RGUI",
-                    "label": "RGUI"
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 }
             }
         },
@@ -1014,7 +1029,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "RALT",
+                    "label": "RALT"
+                }
             }
         },
         {
@@ -1024,7 +1042,10 @@
             "w": 4,
             "h": 8,
             "layers": {
-
+                "0": {
+                    "key": "RGUI",
+                    "label": "RGUI"
+                }
             }
         },
         {
@@ -1035,8 +1056,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "RSHIFT",
+                    "label": "R\u21d1"
                 },
                 "2": {
                     "key": "P0",
